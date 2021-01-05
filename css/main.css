@@ -1,0 +1,17 @@
+.call {
+  top: 50%;
+}
+hr {
+  border-top: 10px solid #8c8c8b8b;
+}
+.food {
+  color: white;
+  font-size: 20px;
+}
+.Ingredients {
+  font style: italic;
+}
+.foodpicture {
+  width: 250px;
+  height: 200px;
+}
